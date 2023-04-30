@@ -4,7 +4,7 @@ Supporting Codes of U-AnDi for data generation and model training
 
 ### Semantic Segmentation of Anomalous Diffusion Using Deep Convolutional Networks
 
-#### Xiang Qu, Yi Hu, Weijie Cai, Yang Xu, Hu Ke, Guolong Zhu, and [Zihan Huang](https://grzy.hnu.edu.cn/site/index/huangzihan)
+#### Xiang Qu, Yi Hu, Wenjie Cai, Yang Xu, Hu Ke, Guolong Zhu, and [Zihan Huang](https://grzy.hnu.edu.cn/site/index/huangzihan)
 
 School of Physics and Electronics, Hunan University, Changsha 410082, China
 
