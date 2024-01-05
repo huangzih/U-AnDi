@@ -25,7 +25,6 @@ N = args.N
 l = args.l
 tau = args.tau
 omega = args.omega
-idx = args.idx
 
 c_map={
     1:"expo",
